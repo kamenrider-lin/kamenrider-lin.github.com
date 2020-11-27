@@ -14,7 +14,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
       <p><b>地址：宁波市鄞州区盛莫路路1519号浙江万里学院，6楼，邮编315101</b></p>
     </td>
     <td width="25%">
-      <img src="/照片.jpg" width="100%">      % 插入证件照代码lkm
+      <img src="/照片.jpg" width="100%">      %https://github.com/kamenrider-lin/kamenrider-lin.github.com/blob/main/%E7%85%A7%E7%89%87.jpg 
     </td>
   </tr>
 </table>
