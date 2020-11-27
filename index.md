@@ -4,6 +4,20 @@ You can use the [editor on GitHub](https://github.com/kamenrider-lin/kamenrider-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>张三</h1>
+      <p><b>硕士研究生</b></p>
+      <p><b>××大学××学院</b></p>
+      <p><b>邮箱：1234567789@qq.com</b></p>
+      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+    </td>
+    <td width="25%">
+      <img src="/照片.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 ### 个人信息
 #### 姓名：林健彬
 #### 学历：本科
@@ -28,20 +42,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
  在大学里，我将在大二接受专业相关知识的学习。我不能像现在这样慢慢来，我要从大二开始认真学习有关知识。对于这些专业知识我并不是十分了解，比如编程语言、单片机等内容。在大学里我要拿到专业相关的证书。其中包括英语四级证书、计算机二级证书、通信工程师等一系列证书。在大四的时候，我已经基本上学完了这个专业的知识，这是我要去相关部门进行实习，获得一些社会经验，为止后毕业做好充足的准备。
 
 
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
-    </td>
-    <td width="25%">
-      <img src="/照片.jpg" width="100%">      % 插入证件照代码
-    </td>
-  </tr>
-</table>
+
 
 
 
