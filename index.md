@@ -1,8 +1,3 @@
-## Welcome to GitHub Pages
-
-
-
-
 <table border="0">
   <tr>
     <td width="75%">
@@ -14,9 +9,9 @@
     </td>
     <td width="25%">
       <img src="/lin.jpg.jpg" width="100%">     
-   </td>  
+    </td>  
   </tr>
- </table>
+</table>
 
 
 
