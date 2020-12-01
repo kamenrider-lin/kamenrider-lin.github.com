@@ -14,9 +14,9 @@
     </td>
     <td width="25%">
       <img src="/lin.jpg.jpg" width="100%">     
-  <td>  
+   </td>  
   </tr>
-</table>
+ </table>
 
 
 
