@@ -15,7 +15,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
     </td>
     <td width="25%">
       <img src="/照片.jpg" width="100%">     
-![证件照](/照片.jpg)
+
     </td>
   </tr>
 </table>
